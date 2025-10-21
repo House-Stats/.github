@@ -1,5 +1,6 @@
 # House Stats
-You can read a more detailed post about House Stats on my website [here](https://morganthomas.uk/posts/housestats)
+
+A website for viewing the current state of the housing market in England in Wales with aggreations executed on the fly. You can read a more detailed post about House Stats on my website [here](https://morganthomas.uk/posts/housestats)
 
 ### [1. Data Ingest](https://github.com/House-Stats/data-processor)
 - A Golang + Python pipeline downloads the latest Price Paid Data from the Land Registry every month.
