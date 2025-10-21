@@ -1,8 +1,7 @@
 # House Stats
+> Unfortunately, the website is no longer hosted as I have had to move my servers around my garage to make room for the Landy but I hope to get it back up and running soon.
 
 A website for viewing the current state of the housing market in England in Wales with aggreations executed on the fly. You can read a more detailed post about House Stats on my website [here](https://morganthomas.uk/posts/housestats). 
-
-> Unfortunately, the website is no longer hosted as I have had to move my servers around my garage to make room for the Landy but I hope to get it back up and running soon.
 
 ### [1. Data Ingest](https://github.com/House-Stats/data-processor)
 - A Golang + Python pipeline downloads the latest Price Paid Data from the Land Registry every month.
