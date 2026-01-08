@@ -3,7 +3,7 @@
 
 A website for viewing the current state of the housing market in England in Wales with aggreations executed on the fly. You can read a more detailed post about House Stats on my website [here](https://morganthomas.uk/posts/housestats). 
 
-### [1. Data Ingest](https://github.com/House-Stats/data-processor)
+### [1. Data Ingest](https://github.com/House-Stats/sales-ingest)
 - A Golang + Python pipeline downloads the latest Price Paid Data from the Land Registry every month.
 - It validates, parses, and uploads millions of transactions to a PostgreSQL database using a Kafka message queue and 
 asynchronous workers.
