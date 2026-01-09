@@ -1,6 +1,6 @@
 # House Stats
 > Unfortunately, the website is no longer hosted as I have had to move my servers around my garage to make room for the Landy, but I hope to get it back up and running soon.
-> Currently, while the House Stats original site is down, I am developing House Stats 2.0. This will involve a full re-write of the backend to a port-adapter architecture, which will allow full end-to-end testing and enable future data to be easily incorporated as EPC-certified, local planning permissions, and land polygons from the INSPIRE dataset.
+> Currently, while the House Stats original site is down, I am developing House Stats 2.0. This will involve a full re-write of the backend to a port-adapter architecture, which will allow full end-to-end testing and enable future data to be easily incorporated as EPC-certified, local planning permissions, and land polygons from the INSPIRE dataset. Aiming for an end of February release.
 
 
 A website for viewing the current state of the housing market in England in Wales with aggreations executed on the fly. You can read a more detailed post about House Stats on my website [here](https://morganthomas.uk/posts/housestats). 
